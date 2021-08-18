@@ -1,4 +1,4 @@
-package domain
+package person
 
 type Person struct {
 	_id       string `json:"id,omitempty"`
